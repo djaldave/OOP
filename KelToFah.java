@@ -1,4 +1,3 @@
-package x;
 
 public class KelToFah implements Temperature{
 

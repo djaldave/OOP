@@ -1,4 +1,4 @@
-package x;
+
 
 public class Credentials {
 	 private String username = "student"; 

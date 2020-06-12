@@ -1,4 +1,3 @@
-package x;
 
 public interface Temperature {
 
